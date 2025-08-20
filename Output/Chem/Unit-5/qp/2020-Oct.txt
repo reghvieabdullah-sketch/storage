@@ -1,0 +1,4 @@
+question: 1
+x: 71
+y: -709
+page_no: 2
